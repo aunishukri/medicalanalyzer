@@ -557,7 +557,7 @@
             "_view_module_version": "1.5.0",
             "_view_name": "HTMLView",
             "description": "",
-            "description_tooltip": null,
+            "description_tooltip": None,
             "layout": "IPY_MODEL_82ff1d1f590143c1b9b075e182052072",
             "placeholder": "​",
             "style": "IPY_MODEL_0a4ca7cc390c4552abfa9e779e10897f",
