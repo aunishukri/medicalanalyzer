@@ -552,7 +552,7 @@
             "_model_module": "@jupyter-widgets/controls",
             "_model_module_version": "1.5.0",
             "_model_name": "HTMLModel",
-            "_view_count": null,
+            "_view_count": None,
             "_view_module": "@jupyter-widgets/controls",
             "_view_module_version": "1.5.0",
             "_view_name": "HTMLView",
