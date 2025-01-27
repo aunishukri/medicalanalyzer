@@ -573,7 +573,7 @@
             "_model_module": "@jupyter-widgets/controls",
             "_model_module_version": "1.5.0",
             "_model_name": "FloatProgressModel",
-            "_view_count": null,
+            "_view_count": None,
             "_view_module": "@jupyter-widgets/controls",
             "_view_module_version": "1.5.0",
             "_view_name": "ProgressView",
