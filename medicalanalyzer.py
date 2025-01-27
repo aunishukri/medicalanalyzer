@@ -1178,7 +1178,7 @@
             "min_height": None,
             "min_width": None,
             "object_fit": None,
-            "object_position": v,
+            "object_position": None,
             "order": None,
             "overflow": None,
             "overflow_x":None,
