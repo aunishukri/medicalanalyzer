@@ -1166,7 +1166,7 @@
             "grid_gap": None,
             "grid_row": None,
             "grid_template_areas": None,
-            "grid_template_columns": v,
+            "grid_template_columns":  None,
             "grid_template_rows":None,
             "height": None,
             "justify_content":None,
